@@ -43,7 +43,7 @@ Canon,EF 800mm f/5.6L IS USM,2008,12999,4500,459.74,162.56,5.6,800,0,1,0,Full-Fr
 Canon,EF 11-24mm f/4L USM,2015,2999,1180,132.08,109.22,4,11-24,1,0,0,Full-Frame,Ultra Wide Angle,42
 Canon,EF 100-400mm f/4.5-5.6L IS USM,1998,1499,1360,189,92,5.6,100-400,1,1,0,Full-Frame,Long Telephoto,43
 Canon,EF 100-400mm f/4.5-5.6L IS II USM,2014,2199,1590,193.04,93.98,5.6,100-400,1,1,0,Full-Frame,Long Telephoto,44
-Canon,CN-E 15.5-47mm f/2.8 L SP,2012,23875,2190,220.98,111.76,2.8,15.5-47,1,0,1,Full-Frame,Wide Angle,45
+Canon,CN-E 15.5-47mm T2.8 L SP,2012,23875,2190,220.98,111.76,2.8,15.5-47,1,0,1,Full-Frame,Wide Angle,45
 Canon,EF 16-35mm f/2.8L II USM,2007,1599,635,111.506,88.392,2.8,16-35,1,0,0,Full-Frame,Wide Angle,46
 Canon,EF 16-35mm f/4L IS USM,2014,1099,615,112.776,82.55,4,16-35,1,1,0,Full-Frame,Wide Angle,47
 Canon,EF 17-40mm f/4L USM,2003,799,475,96.774,83.566,4,17-40,1,0,0,Full-Frame,Wide Angle,48
@@ -318,16 +318,80 @@ Sigma,14mm f/1.8 DG HSM Art,2017,,1170,126,95.4,1.8,14,0,0,0,Full-Frame,Ultra Wi
 Sigma,135mm f/1.8 DG HSM Art,2017,,1130,114.9,91.4,1.8,135,0,0,0,Full-Frame,Medium Telephoto,317
 Sigma,24-70mm DG OS HSM Art,2017,,,107.6,88,2.8,24-70,1,1,0,Full-Frame,Normal,318
 Sigma,100-400mm f/5-6.3 DG OS HSM Contemporary,2017,,1160,182.3,86.4,6.3,100-400,1,1,0,Full-Frame,Long Telephoto,319
-Tamron,SP 70-200mm f/2.8 Di VC USD G2,2017,1299,1500,193.04,87.88,2.8,70-200,1,1,0,Full-Frame,Telephoto,320
-Zeiss,Batis 135mm f/2.8,2017,1999,614,120,81,2.8,135,0,1,0,Full-Frame,Medium Telephoto,321
-Sony,FE 12-24mm f/4 G,2017,1698,565,116.84,88.9,4,12-24,1,0,0,Full-Frame,Ultra Wide Angle,322
-Sony,FE 16-35mm f/2.8 GM,2017,2198,680,121.6,88.5,2.8,16-35,1,0,0,Full-Frame,Ultra Wide Angle,323
-Sony,FE 100-400mm f/4.5-5.6 GM OSS,2017,2498,1395,205,93.9,5.6,100-400,1,1,0,Full-Frame,Long Telephoto,323
-Venus,Laowa 15mm f/2 FE Zero-D,2017,,500,82,66,2,15,0,0,0,Full-Frame,Ultra Wide Angle,324
-Venus,Laowa 7.5mm f/2 MFT Zero-D,2017,499,170,55,50,2,7.5,0,0,0,Micro Four Thirds,Ultra Wide Angle,325
-Fujifilm,GF 63mm f/2.8 R WR,2017,1499,405,71,84,2.8,63,0,0,0,Crop Medium Format Digital,Normal,326
-Fujifilm,GF 120mm f/4 R LM OIS WR,2017,2699,980,152.5,89.2,4,120,0,1,0,Crop Medium Format Digital,Short Telephoto,327
-Fujifilm,GF 32-64mm f/4 R LM WR,2017,229,875,116,92.6,4,32-64,1,0,0,Crop Medium Format Digital,Wide Angle,328
-Fujifilm,GF 45mm f/2.8 R WR,2017,,,,,2.8,45,0,0,0,Crop Medium Format Digital,Normal,329
-Hasselblad,XCD 45mm f/3.5,2016,2695,417,75,77,3.5,45,0,0,0,Crop Medium Format Digital,Normal,330
-Hasselblad,XCD 90mm f/3.2,2016,3195,619,100,77,3.2,90,0,0,0,Crop Medium Format Digital,Short Telephoto,331
+Canon,EF 70-200mm f/2.8L,1995,1349,1310,193.6,84.6,2.8,70-135-200,1,0,0,Full-Frame,Telephoto,320
+Schneider,Xenon FF 50mm T/2.1,,3360,1200,135.6,100,2,50,0,0,1,Full-Frame,,321
+Schneider,Xenon FF 35mm T/2.1,,3360,1160,135.6,100,2,35,0,0,1,Full-Frame,,322
+Schneider,Xenon FF 75mm T/2.1,,3360,1180,135.6,100,2,75,0,0,1,Full-Frame,,323
+Sigma,18-35mm T2 Cine,,3999,1450,129.5,95,2,18-27-35,1,0,1,Full-Frame,,324
+Tokina,AT-X 50-135mm T3,,4499,1530,159,114,2.8,50-90-135,1,0,1,Full-Frame,,325
+Canon,CN-E 70-200mm T4.4,2017,,1250,182.1,,4,70-135-200,1,0,1,Full-Frame,,326
+Canon,CN-E 18-80mm T4.4,,5225,1200,182.3,84,4,18-80,1,0,1,Full-Frame,,327
+Canon,CN7x17 KAS S 17-120mm T2.95,,26350,2900,263,114,2.8,17-120,1,0,1,Full-Frame,,328
+Canon,CN-E 30-300mm T2.95-3.7 L SP,,44650,5800,342.1,136,2.8,30-300,1,0,1,Full-Frame,,329
+Canon,CN-E 14.5-60mm T2.6 L SP,,42750,4500,326,136,2.6,14.5-60,1,0,1,Full-Frame,,330
+Schneider,Cine-Xenar III 50mm T2,,7750,1590,179.3,104,2,50,0,0,1,Full-Frame,,331
+Schneider,Cine-Xenar III 75mm T2,,7750,1690,179.3,104,2,75,0,0,1,Full-Frame,,332
+Schneider,Cine-Xenar III 95mm T2,,7750,1810,179.3,104,2,95,0,0,1,Full-Frame,,333
+Schneider,Cine-Xenar III 18mm T2.2,,9660,2060,179.3,104,2,18,0,0,1,Full-Frame,,334
+Schneider,Cine-Xenar III 25mm T2.2,,7750,1890,179.3,104,2,25,0,0,1,Full-Frame,,335
+Schneider,Cine-Xenar III 35mm T2.1,,7750,1830,179.3,104,2,35,0,0,1,Full-Frame,,336
+Angenieux,Optimo 15-40mm T2,2017,43999,2120,210,114,1.9,15-20,1,0,1,Full-Frame,,337
+Angenieux,Optimo 22-60mm T3,2017,,2070,210,114,2.8,22-60,1,0,1,Full-Frame,,338
+Angenieux,Optimo 30-90mm T2,2017,,2150,226,114,1.9,30-90,1,0,1,Full-Frame,,339
+Angenieux,Optimo 45-135mm T3,2017,,2050,226,114,2.8,45-135,1,0,1,Full-Frame,,340
+Angenieux,Optimo Style 48-130mm T3,2017,,1950,206,114,2.8,48-130,1,0,1,Full-Frame,,341
+Angenieux,Optimo Style 16-40mm T2.8,2017,,1920,186,114,2.6,16-40,1,0,1,Full-Frame,,342
+Angenieux,Optimo Style 30-76mm T2.8,2017,,1920,186,114,2.6,30-76,1,0,1,Full-Frame,,343
+Angenieux,Optimo Style 25-250mm T3.5,2017,,7300,377.4,136,3.2,25-250,1,0,1,Full-Frame,,344
+Angenieux,Optimo 15-40mm T2.6,2017,,1920,186,114,2.4,15-20,1,0,1,Full-Frame,,345
+Angenieux,Optimo 28-76mm T2.6,2017,,1920,186,114,2.4,28-76,1,0,1,Full-Frame,,346
+Angenieux,Optimo 45-120mm T2.8,2017,,1950,203,114,2.6,45-120,1,0,1,Full-Frame,,347
+Angenieux,Optimo 28-340mm T3.2,2017,,11100,454,162,2.9,28-340,1,0,1,Full-Frame,,348
+Angenieux,Optimo 24-290mm T2.8,2017,,11000,440,162,2.5,24-290,1,0,1,Full-Frame,,349
+Angenieux,Optimo 19.5-94mm T2.6,2017,,5600,335,136,2.4,19.5-94,1,0,1,Full-Frame,,350
+Angenieux,Optimo Anamorphic 44-440mm T4.5 A2S,2017,,7550,414,136,4,44-440,1,0,1,Full-Frame,,351
+Angenieux,Optimo Anamorphic 30-72mm T4 A2S,2017,,2400,227,114,3.6,30-72,1,0,1,Full-Frame,,352
+Angenieux,Optimo Anamorphic 56-152mm T4 A2S,2017,,2200,210,114,3.6,56-152,1,0,1,Full-Frame,,353
+Fujifilm,ZK 14-35mm T2.9 Cabrio Premier,2017,32000,2900,231,114,2.9,14-35,1,0,1,Super 35,,354
+Fujifilm,XK 20-120mm T3.5 Cabrio Premier,2017,11499,2400,226,114,3.5,20-120,1,0,1,Super 35,,355
+Fujifilm,ZK 19-90mm T2.9 Cabrio Premier,2017,29800,2200,223,114,2.9,19-90,1,0,1,Super 35,,356
+Fujifilm,18-85mm T2 Premier,2017,87300,6900,352,136,2,18-85,1,0,1,Super 35,,357
+Fujifilm,ZK 25-300mm T3.5-3.85 Cabrio Premier,2017,44000,8900,401,136,3.5,25-300,1,0,1,Super 35,,358
+Fujifilm,75-400mm T2.8-3.8 Premier,2017,96000,8900,444,136,2.8,75-400,1,0,1,Super 35,,359
+Fujifilm,14.5-45mm T2 Premier,2017,99800,6500,310,136,2,14.5-45,1,0,1,Super 35,,360
+Fujifilm,24-180mm T2.6 Premier,2017,87300,8900,405,136,2.6,24-180,1,0,1,Super 35,,361
+Fujifilm,ZK 85-300mm T2.9-4 Lightweight,2017,32000,3000,249,114,2.9,85-300,1,0,1,Super 35,,362
+Sigma,50-100mm T2 Cine,,3999,1950,201,95,2,50-100,1,0,1,Full-Frame,,363
+Sigma,85mm T1.5 FF,2017,3499,1475,135,95,1.5,85,0,0,1,Full-Frame,,364
+Sigma,14mm T2 FF,2017,3499,1430,120,95,2,14,0,0,1,Full-Frame,,365
+Sigma,20mm T1.5 FF,2017,3499,1335,118,95,1.5,20,0,0,1,Full-Frame,,366
+Sigma,24mm T1.5 FF,2017,3499,1125,95,95,1.5,24,0,0,1,Full-Frame,,367
+Sigma,35mm T1.5 FF,2017,3499,1135,95,95,1.5,35,0,0,1,Full-Frame,,368
+Sigma,50mm T1.5 FF,2017,3499,1295,102,95,1.5,50,0,0,1,Full-Frame,,369
+Sigma,135mm T2 FF,2017,3499,1565,126,95,2,135,0,0,1,Full-Frame,,370
+Tokina,AT-X 16-28mm T3,2017,3999,1500,166,123,2.8,16-28,1,0,1,Full-Frame,,371
+Tokina,Vista 16-28mm II T3,2017,4999,1830,135,114,2.8,16-28,1,0,1,Full-Frame,,372
+Tokina,35mm T1.5 Vista,2017,4999,2120,165,114,1.5,35,0,0,1,Full-Frame,,373
+Tokina,50mm T1.5 Vista,2017,4499,2190,139,114,1.5,50,0,0,1,Full-Frame,,374
+Tokina,AT-X  11-16mm T3,,1499,690,98,84,2.8,11-16,1,0,1,Full-Frame,,375
+Tokina,AT-X 100mm T2.9 Macro,2017,2499,1310,133,88,2.8,100,0,0,1,Full-Frame,,376
+Tokina,85mm T1.5 Vista,2017,4999,2230,139,114,1.5,85,0,0,1,Full-Frame,,377
+Zeiss,21-100mm T2.9-3.9 LWZ.3,2017,9900,2000,226,114,2.9,21-100,1,0,1,Full-Frame,,378
+Canon,EF-S 35mm f/2.8 Macro IS STM,2017,349,190,56,69,2.8,35,0,1,0,Full-Frame,,379
+Samyang,14mm Ultra Wide-Angle f/2.8 IF ED UMC,2016,329,552,96.1,87,2.8,14,0,0,0,APS-C,,380
+Samyang,8mm f/3.5 HD Fisheye,2009,279,428,77.3,75,3.5,8,0,0,0,APS-C,,381
+Samyang,135mm f/2.0 ED UMC,2015,499,815,120,82,2,135,0,0,0,Full-Frame,,382
+Samyang,85mm f/1.4 Aspherical,2009,289,520,72.2,78,1.4,85,0,0,0,Full-Frame,,383
+Tamron,SP 70-200mm f/2.8 Di VC USD G2,2017,1299,1500,193.04,87.88,2.8,70-200,1,1,0,Full-Frame,Telephoto,384
+Zeiss,Batis 135mm f/2.8,2017,1999,614,120,81,2.8,135,0,1,0,Full-Frame,Medium Telephoto,385
+Sony,FE 12-24mm f/4 G,2017,1698,565,116.84,88.9,4,12-24,1,0,0,Full-Frame,Ultra Wide Angle,386
+Sony,FE 16-35mm f/2.8 GM,2017,2198,680,121.6,88.5,2.8,16-35,1,0,0,Full-Frame,Ultra Wide Angle,387
+Sony,FE 100-400mm f/4.5-5.6 GM OSS,2017,2498,1395,205,93.9,5.6,100-400,1,1,0,Full-Frame,Long Telephoto,388
+Venus,Laowa 15mm f/2 FE Zero-D,2017,,500,82,66,2,15,0,0,0,Full-Frame,Ultra Wide Angle,389
+Venus,Laowa 7.5mm f/2 MFT Zero-D,2017,499,170,55,50,2,7.5,0,0,0,Micro Four Thirds,Ultra Wide Angle,390
+Fujifilm,GF 63mm f/2.8 R WR,2017,1499,405,71,84,2.8,63,0,0,0,Crop Medium Format Digital,Normal,391
+Fujifilm,GF 120mm f/4 R LM OIS WR,2017,2699,980,152.5,89.2,4,120,0,1,0,Crop Medium Format Digital,Short Telephoto,392
+Fujifilm,GF 32-64mm f/4 R LM WR,2017,229,875,116,92.6,4,32-64,1,0,0,Crop Medium Format Digital,Wide Angle,393
+Fujifilm,GF 45mm f/2.8 R WR,2017,,,,,2.8,45,0,0,0,Crop Medium Format Digital,Normal,394
+Hasselblad,XCD 45mm f/3.5,2016,2695,417,75,77,3.5,45,0,0,0,Crop Medium Format Digital,Normal,395
+Hasselblad,XCD 90mm f/3.2,2016,3195,619,100,77,3.2,90,0,0,0,Crop Medium Format Digital,Short Telephoto,396
