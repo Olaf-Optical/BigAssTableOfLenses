@@ -324,11 +324,11 @@ Schneider,Xenon FF 35mm T/2.1,,3360,1160,135.6,100,2,35,0,0,1,Full-Frame,,322
 Schneider,Xenon FF 75mm T/2.1,,3360,1180,135.6,100,2,75,0,0,1,Full-Frame,,323
 Sigma,18-35mm T2 Cine,,3999,1450,129.5,95,2,18-27-35,1,0,1,Full-Frame,,324
 Tokina,AT-X 50-135mm T3,,4499,1530,159,114,2.8,50-90-135,1,0,1,Full-Frame,,325
-Canon,CN-E 70-200mm T4.4,2017,,1250,182.1,,4,70-135-200,1,0,1,Full-Frame,,326
-Canon,CN-E 18-80mm T4.4,,5225,1200,182.3,84,4,18-80,1,0,1,Full-Frame,,327
-Canon,CN7x17 KAS S 17-120mm T2.95,,26350,2900,263,114,2.8,17-120,1,0,1,Full-Frame,,328
-Canon,CN-E 30-300mm T2.95-3.7 L SP,,44650,5800,342.1,136,2.8,30-300,1,0,1,Full-Frame,,329
-Canon,CN-E 14.5-60mm T2.6 L SP,,42750,4500,326,136,2.6,14.5-60,1,0,1,Full-Frame,,330
+Canon,CN-E 70-200mm T4.4,2017,,1250,182.1,,4,70-135-200,1,0,1,Full-Frame,Telephoto,326
+Canon,CN-E 18-80mm T4.4,2016,5225,1200,182.3,84,4,18-80,1,0,1,Super 35,Superzoom,327
+Canon,CN7x17 KAS S 17-120mm T2.95,2014,26350,2900,263,114,2.8,17-120,1,0,1,Super 35,Superzoom,328
+Canon,CN-E 30-300mm T2.95-3.7 L SP,2011,44650,5800,342.1,136,2.8,30-300,1,0,1,Super 35,Superzoom,329
+Canon,CN-E 14.5-60mm T2.6 L SP,2011,42750,4500,326,136,2.6,14.5-60,1,0,1,Super 35,,330
 Schneider,Cine-Xenar III 50mm T2,,7750,1590,179.3,104,2,50,0,0,1,Full-Frame,,331
 Schneider,Cine-Xenar III 75mm T2,,7750,1690,179.3,104,2,75,0,0,1,Full-Frame,,332
 Schneider,Cine-Xenar III 95mm T2,,7750,1810,179.3,104,2,95,0,0,1,Full-Frame,,333
@@ -395,3 +395,4 @@ Fujifilm,GF 32-64mm f/4 R LM WR,2017,229,875,116,92.6,4,32-64,1,0,0,Crop Medium 
 Fujifilm,GF 45mm f/2.8 R WR,2017,,,,,2.8,45,0,0,0,Crop Medium Format Digital,Normal,394
 Hasselblad,XCD 45mm f/3.5,2016,2695,417,75,77,3.5,45,0,0,0,Crop Medium Format Digital,Normal,395
 Hasselblad,XCD 90mm f/3.2,2016,3195,619,100,77,3.2,90,0,0,0,Crop Medium Format Digital,Short Telephoto,396
+Canon,CN-E 18-80mm T4.4,,,,,,,,,,,,,
