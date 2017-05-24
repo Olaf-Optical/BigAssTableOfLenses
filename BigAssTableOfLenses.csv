@@ -352,36 +352,36 @@ Angenieux,Optimo 19.5-94mm T2.6,2017,,5600,335,136,2.4,19.5-94,1,0,1,Full-Frame,
 Angenieux,Optimo Anamorphic 44-440mm T4.5 A2S,2017,,7550,414,136,4,44-440,1,0,1,Full-Frame,,351
 Angenieux,Optimo Anamorphic 30-72mm T4 A2S,2017,,2400,227,114,3.6,30-72,1,0,1,Full-Frame,,352
 Angenieux,Optimo Anamorphic 56-152mm T4 A2S,2017,,2200,210,114,3.6,56-152,1,0,1,Full-Frame,,353
-Fujifilm,ZK 14-35mm T2.9 Cabrio Premier,2017,32000,2900,231,114,2.9,14-35,1,0,1,Super 35,,354
-Fujifilm,XK 20-120mm T3.5 Cabrio Premier,2017,11499,2400,226,114,3.5,20-120,1,0,1,Super 35,,355
-Fujifilm,ZK 19-90mm T2.9 Cabrio Premier,2017,29800,2200,223,114,2.9,19-90,1,0,1,Super 35,,356
-Fujifilm,18-85mm T2 Premier,2017,87300,6900,352,136,2,18-85,1,0,1,Super 35,,357
-Fujifilm,ZK 25-300mm T3.5-3.85 Cabrio Premier,2017,44000,8900,401,136,3.5,25-300,1,0,1,Super 35,,358
-Fujifilm,75-400mm T2.8-3.8 Premier,2017,96000,8900,444,136,2.8,75-400,1,0,1,Super 35,,359
-Fujifilm,14.5-45mm T2 Premier,2017,99800,6500,310,136,2,14.5-45,1,0,1,Super 35,,360
-Fujifilm,24-180mm T2.6 Premier,2017,87300,8900,405,136,2.6,24-180,1,0,1,Super 35,,361
-Fujifilm,ZK 85-300mm T2.9-4 Lightweight,2017,32000,3000,249,114,2.9,85-300,1,0,1,Super 35,,362
-Sigma,50-100mm T2 Cine,,3999,1950,201,95,2,50-100,1,0,1,Full-Frame,,363
-Sigma,85mm T1.5 FF,2017,3499,1475,135,95,1.5,85,0,0,1,Full-Frame,,364
-Sigma,14mm T2 FF,2017,3499,1430,120,95,2,14,0,0,1,Full-Frame,,365
-Sigma,20mm T1.5 FF,2017,3499,1335,118,95,1.5,20,0,0,1,Full-Frame,,366
-Sigma,24mm T1.5 FF,2017,3499,1125,95,95,1.5,24,0,0,1,Full-Frame,,367
-Sigma,35mm T1.5 FF,2017,3499,1135,95,95,1.5,35,0,0,1,Full-Frame,,368
-Sigma,50mm T1.5 FF,2017,3499,1295,102,95,1.5,50,0,0,1,Full-Frame,,369
-Sigma,135mm T2 FF,2017,3499,1565,126,95,2,135,0,0,1,Full-Frame,,370
-Tokina,AT-X 16-28mm T3,2017,3999,1500,166,123,2.8,16-28,1,0,1,Full-Frame,,371
-Tokina,Vista 16-28mm II T3,2017,4999,1830,135,114,2.8,16-28,1,0,1,Full-Frame,,372
-Tokina,35mm T1.5 Vista,2017,4999,2120,165,114,1.5,35,0,0,1,Full-Frame,,373
-Tokina,50mm T1.5 Vista,2017,4499,2190,139,114,1.5,50,0,0,1,Full-Frame,,374
-Tokina,AT-X  11-16mm T3,,1499,690,98,84,2.8,11-16,1,0,1,Full-Frame,,375
-Tokina,AT-X 100mm T2.9 Macro,2017,2499,1310,133,88,2.8,100,0,0,1,Full-Frame,,376
-Tokina,85mm T1.5 Vista,2017,4999,2230,139,114,1.5,85,0,0,1,Full-Frame,,377
-Zeiss,21-100mm T2.9-3.9 LWZ.3,2017,9900,2000,226,114,2.9,21-100,1,0,1,Full-Frame,,378
-Canon,EF-S 35mm f/2.8 Macro IS STM,2017,349,190,56,69,2.8,35,0,1,0,Full-Frame,,379
-Samyang,14mm Ultra Wide-Angle f/2.8 IF ED UMC,2016,329,552,96.1,87,2.8,14,0,0,0,APS-C,,380
-Samyang,8mm f/3.5 HD Fisheye,2009,279,428,77.3,75,3.5,8,0,0,0,APS-C,,381
-Samyang,135mm f/2.0 ED UMC,2015,499,815,120,82,2,135,0,0,0,Full-Frame,,382
-Samyang,85mm f/1.4 Aspherical,2009,289,520,72.2,78,1.4,85,0,0,0,Full-Frame,,383
+Fujifilm,ZK 14-35mm T2.9 Cabrio Premier,2013,32000,2900,231,114,2.9,14-35,1,0,1,Super 35,Wide,354
+Fujifilm,XK 20-120mm T3.5 Cabrio Premier,2016,11499,2400,226,114,3.5,20-120,1,0,1,Super 35,Superzoom,355
+Fujifilm,ZK 19-90mm T2.9 Cabrio Premier,2012,29800,2200,223,114,2.9,19-90,1,0,1,Super 35,Normal,356
+Fujifilm,18-85mm T2 Premier,2017,87300,6900,352,136,2,18-85,1,0,1,Super 35,Normal,357
+Fujifilm,ZK 25-300mm T3.5-3.85 Cabrio Premier,2014,44000,8900,401,136,3.5,25-300,1,0,1,Super 35,Superzoom,358
+Fujifilm,75-400mm T2.8-3.8 Premier,2017,96000,8900,444,136,2.8,75-400,1,0,1,Super 35,Long Telephoto,359
+Fujifilm,14.5-45mm T2 Premier,2013,99800,6500,310,136,2,14.5-45,1,0,1,Super 35,Normal,360
+Fujifilm,24-180mm T2.6 Premier,2017,87300,8900,405,136,2.6,24-180,1,0,1,Super 35,Superzoom,361
+Fujifilm,ZK 85-300mm T2.9-4 Lightweight,2012,32000,3000,249,114,2.9,85-300,1,0,1,Super 35,Long Telephoto,362
+Sigma,50-100mm T2 Cine,2016,3999,1950,201,95,2,50-100,1,0,1,Super 35,Telephoto,363
+Sigma,85mm T1.5 FF,2017,3499,1475,135,95,1.5,85,0,0,1,Full-Frame,Short Telephoto,364
+Sigma,14mm T2 FF,2017,3499,1430,120,95,2,14,0,0,1,Full-Frame,Ultra Wide Angle,365
+Sigma,20mm T1.5 FF,2017,3499,1335,118,95,1.5,20,0,0,1,Full-Frame,Ultra Wide Angle,366
+Sigma,24mm T1.5 FF,2017,3499,1125,95,95,1.5,24,0,0,1,Full-Frame,Wide,367
+Sigma,35mm T1.5 FF,2017,3499,1135,95,95,1.5,35,0,0,1,Full-Frame,Normal,368
+Sigma,50mm T1.5 FF,2017,3499,1295,102,95,1.5,50,0,0,1,Full-Frame,Normal,369
+Sigma,135mm T2 FF,2017,3499,1565,126,95,2,135,0,0,1,Full-Frame,Telephoto,370
+Tokina,AT-X 16-28mm T3,2017,3999,1500,166,123,2.8,16-28,1,0,1,Full-Frame,Ultra Wide Angle,371
+Tokina,Vista 16-28mm II T3,2017,4999,1830,135,114,2.8,16-28,1,0,1,Full-Frame,Ultra Wide Angle,372
+Tokina,35mm T1.5 Vista,2017,4999,2120,165,114,1.5,35,0,0,1,Full-Frame,Normal,373
+Tokina,50mm T1.5 Vista,2017,4499,2190,139,114,1.5,50,0,0,1,Full-Frame,Normal,374
+Tokina,AT-X  11-16mm T3,,1499,690,98,84,2.8,11-16,1,0,1,APS-C,Ultra Wide Angle,375
+Tokina,AT-X 100mm T2.9 Macro,2017,2499,1310,133,88,2.8,100,0,0,1,Full-Frame,Macro,376
+Tokina,85mm T1.5 Vista,2017,4999,2230,139,114,1.5,85,0,0,1,Full-Frame,Short Telephoto,377
+Zeiss,21-100mm T2.9-3.9 LWZ.3,2017,9900,2000,226,114,2.9,21-100,1,0,1,Super 35,Superzoom,378
+Canon,EF-S 35mm f/2.8 Macro IS STM,2017,349,190,56,69,2.8,35,0,1,0,APS-C,Macro,379
+Samyang,14mm Ultra Wide-Angle f/2.8 IF ED UMC,2016,329,552,96.1,87,2.8,14,0,0,0,Full-Frame,Ultra Wide Angle,380
+Samyang,8mm f/3.5 HD Fisheye,2009,279,428,77.3,75,3.5,8,0,0,0,APS-C,Fisheye,381
+Samyang,135mm f/2.0 ED UMC,2015,499,815,120,82,2,135,0,0,0,Full-Frame,Telephoto,382
+Samyang,85mm f/1.4 Aspherical,2009,289,520,72.2,78,1.4,85,0,0,0,Full-Frame,Short Telephoto,383
 Tamron,SP 70-200mm f/2.8 Di VC USD G2,2017,1299,1500,193.04,87.88,2.8,70-200,1,1,0,Full-Frame,Telephoto,384
 Zeiss,Batis 135mm f/2.8,2017,1999,614,120,81,2.8,135,0,1,0,Full-Frame,Medium Telephoto,385
 Sony,FE 12-24mm f/4 G,2017,1698,565,116.84,88.9,4,12-24,1,0,0,Full-Frame,Ultra Wide Angle,386
