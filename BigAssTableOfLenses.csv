@@ -179,7 +179,7 @@ Rokinon,Xeen 135mm T/2.2,2016,2195,2500,122,118,2.2,135,0,1,1,Full-Frame,Medium 
 Schneider,PC-TS Super-Angulon 28mm f/4.5 HM Aspheric,2014,8288,1610,144.78,124.968,4.5,28,0,0,0,Full-Frame,Tilt Shift,178
 Schneider,PC-TS Super-Angulon 50mm f/2.8 HM,2010,3365,1400,107.95,129.032,2.8,50,0,0,0,Full-Frame,Tilt Shift,179
 Schneider,PC-TS Makro-Symmar 90mm f/4.5 HM,2010,3180,1110,138.684,107.95,4.5,90,0,0,0,Full-Frame,Tilt Shift,180
-Sigma,19mm f/2.8 DN Art,2012,199,150,45.72,60.706,2.8,19,0,0,0,Micro Four Thirds,Wide,181
+Sigma,19mm f/2.8 DN Art,2012,199,150,45.72,60.706,2.8,19,0,0,0,Micro Four Thirds,Wide Angle,181
 Sigma,20mm f/1.4 DG HSM Art,2015,899,950,129.794,90.678,1.4,20,0,0,0,Full-Frame,Ultra Wide Angle,182
 Sigma,24mm f/1.4 DG HSM Art,2015,850,665,90.17,85.09,1.4,24,0,0,0,Full-Frame,Wide Angle,183
 Sigma,30mm f/2.8 DN Art,2012,199,150,40.386,60.706,2.8,30,0,0,0,Micro Four Thirds,Normal,184
@@ -352,7 +352,7 @@ Angenieux,Optimo 19.5-94mm T2.6,2017,,5600,335,136,2.4,19.5-94,1,0,1,Full-Frame,
 Angenieux,Optimo Anamorphic 44-440mm T4.5 A2S,2017,,7550,414,136,4,44-440,1,0,1,Full-Frame,,351
 Angenieux,Optimo Anamorphic 30-72mm T4 A2S,2017,,2400,227,114,3.6,30-72,1,0,1,Full-Frame,,352
 Angenieux,Optimo Anamorphic 56-152mm T4 A2S,2017,,2200,210,114,3.6,56-152,1,0,1,Full-Frame,,353
-Fujifilm,ZK 14-35mm T2.9 Cabrio Premier,2013,32000,2900,231,114,2.9,14-35,1,0,1,Super 35,Wide,354
+Fujifilm,ZK 14-35mm T2.9 Cabrio Premier,2013,32000,2900,231,114,2.9,14-35,1,0,1,Super 35,Wide Angle,354
 Fujifilm,XK 20-120mm T3.5 Cabrio Premier,2016,11499,2400,226,114,3.5,20-120,1,0,1,Super 35,Superzoom,355
 Fujifilm,ZK 19-90mm T2.9 Cabrio Premier,2012,29800,2200,223,114,2.9,19-90,1,0,1,Super 35,Normal,356
 Fujifilm,18-85mm T2 Premier,2017,87300,6900,352,136,2,18-85,1,0,1,Super 35,Normal,357
@@ -365,7 +365,7 @@ Sigma,50-100mm T2 Cine,2016,3999,1950,201,95,2,50-100,1,0,1,Super 35,Telephoto,3
 Sigma,85mm T1.5 FF,2017,3499,1475,135,95,1.5,85,0,0,1,Full-Frame,Short Telephoto,364
 Sigma,14mm T2 FF,2017,3499,1430,120,95,2,14,0,0,1,Full-Frame,Ultra Wide Angle,365
 Sigma,20mm T1.5 FF,2017,3499,1335,118,95,1.5,20,0,0,1,Full-Frame,Ultra Wide Angle,366
-Sigma,24mm T1.5 FF,2017,3499,1125,95,95,1.5,24,0,0,1,Full-Frame,Wide,367
+Sigma,24mm T1.5 FF,2017,3499,1125,95,95,1.5,24,0,0,1,Full-Frame,Wide Angle,367
 Sigma,35mm T1.5 FF,2017,3499,1135,95,95,1.5,35,0,0,1,Full-Frame,Normal,368
 Sigma,50mm T1.5 FF,2017,3499,1295,102,95,1.5,50,0,0,1,Full-Frame,Normal,369
 Sigma,135mm T2 FF,2017,3499,1565,126,95,2,135,0,0,1,Full-Frame,Telephoto,370
@@ -395,3 +395,5 @@ Fujifilm,GF 32-64mm f/4 R LM WR,2017,229,875,116,92.6,4,32-64,1,0,0,Crop Medium 
 Fujifilm,GF 45mm f/2.8 R WR,2017,,,,,2.8,45,0,0,0,Crop Medium Format Digital,Normal,394
 Hasselblad,XCD 45mm f/3.5,2016,2695,417,75,77,3.5,45,0,0,0,Crop Medium Format Digital,Normal,395
 Hasselblad,XCD 90mm f/3.2,2016,3195,619,100,77,3.2,90,0,0,0,Crop Medium Format Digital,Short Telephoto,396
+Coastal Optics,105mm f/4.5 250-650nm,,5350,535,133.604,68.58,4.5,105,0,0,0,Full-Frame,Short Telephoto,397
+Coastal Optics,UV-VIS-IR 60mm 1:4 APO Macro,,5750,620,73.4,,4,60,0,0,0,Full-Frame,Normal,398
