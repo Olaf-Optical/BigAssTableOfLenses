@@ -1,4 +1,4 @@
-Manufacture,Model,Release Year,MSRP,Weight,Length,Max Diameter,Max Aperture,EFL,Zoom,Stabilized,Cinema,Format,Variety,Designed In,Made In,Index
+﻿Manufacture,Model,Release Year,MSRP,Weight,Length,Max Diameter,Max Aperture,EFL,Zoom,Stabilized,Cinema,Format,Variety,Designed In,Made In,Index
 Canon,EF 14mm f/2.8L II USM,2007,2099,645,93.98,78.74,2.8,14,0,0,0,Full-Frame,Ultra Wide Angle,Japan,Japan,1
 Canon,CN-E 14mm T3.1 L F,2013,5220,1200,93.98,118.364,3.1,14,0,0,1,Full-Frame,Ultra Wide Angle,Japan,Japan,2
 Canon,TS-E 17mm f/4L Tilt-Shift,2009,2149,820,106.68,88.9,4,17,0,0,0,Full-Frame,Tilt Shift,Japan,Japan,3
@@ -401,7 +401,7 @@ Nikon,AF-S Nikkor 28mm f/1.4E ED,2017,1996.96,645,101,83,1.4,28,0,0,0,Full-Frame
 Nikon,AF-S Fisheye Nikkor 8-15mm f/3.5-4.5E ED,2017,1246.95,485,83,78,4.5,8-15,1,0,0,Full-Frame,Fisheye,Japan,,400
 Nikon,AF-P DX Nikkor 10-20mm f/4.5-5.6G VR,2017,306.95,230,73,77,5.6,10-20,1,1,0,Full-Frame,Ultra Wide Angle,Japan,,401
 Sony,FE 85mm f/1.8,2017,598,371,82,78,1.8,85,0,0,0,Full-Frame,Short Telephoto,Japan,,402
-Tamron,24-70mm f/2.8 DI VC USD G2,2017,,,,,2.8,24-70,1,1,0,Full-Frame,Normal,Japan,,403
+Tamron,24-70mm f/2.8 DI VC USD G2,2017,1199,904,111.8,88.4,2.8,24-70,1,1,0,Full-Frame,Normal,Japan,,403
 Tamron,18-400mm f/3.5-6.3 Di II VC HLD,2017,649,705,121.4,79,6.3,18-400,1,1,0,APS-C,Superzoom,Japan,China,404
 Lensbaby,Velvet 85mm f/1.8,2017,499.95,530.1361,89,76,1.8,85,0,0,0,Full-Frame,Short Telephoto,,,405
 Zeiss,CP.3 XD 100mm T2.1 Compact Prime,2017,6690,1010,126.5,95,2,100,0,0,1,Full-Frame,Telephoto,Germany,Germany,406
@@ -416,3 +416,10 @@ Zeiss,CP.3 XD 85mm T2.1 Compact Prime,2017,5790,880,83.7,95,2,85,0,0,1,Full-Fram
 Fujifilm,GF 23mm f/4 R LM WR,2017,2599,845,103,89.8,4,23,0,0,0,Crop Medium Format Digital,Ultra Wide Angle,Japan,,415
 Fujifilm,GF 110mm f/2 R LM WR,2017,2799,1010,125.5,94.3,2,110,0,0,0,Crop Medium Format Digital,Short Telephoto,Japan,,416
 Zeiss,Milvus 35mm f/1.4 ZE,2017,1999,1170,124.8,84.8,1.4,35,0,0,0,Full-Frame,Wide Angle,Germany,Japan,417
+Veydra,12mm T2.2 Mini Prime,2014,999,544,,80,2.2,12,0,0,1,Micro Four Thirds,Wide Angle,USA,,418
+Veydra,16mm T2.2 Mini Prime,2014,999,546,,80,2.2,16,0,0,1,Micro Four Thirds,,USA,,419
+Veydra,19mm T2.6 Mini Prime,2017,999,,,80,2.6,19,0,0,1,Micro Four Thirds,,USA,,420
+Veydra,25mm T2.2 Mini Prime,2014,899,500,,80,2.2,25,0,0,1,Micro Four Thirds,,USA,,421
+Veydra,35mm T2.2 Mini Prime,2014,799,473,,80,2.2,35,0,0,1,Micro Four Thirds,,USA,,422
+Veydra,50mm T2.2 Mini Prime,2014,799,461,,80,2.2,50,0,0,1,Micro Four Thirds,,USA,,423
+Veydra,85mm T2.2 Mini Prime,2015,999,770,,80,2.2,85,0,0,1,Micro Four Thirds,,USA,,424
