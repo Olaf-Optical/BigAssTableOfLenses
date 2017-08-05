@@ -1,4 +1,4 @@
-﻿Manufacture,Model,Release Year,MSRP,Weight,Length,Max Diameter,Max Aperture,EFL,Zoom,Stabilized,Cinema,Format,Variety,Designed In,Made In,Index
+Manufacture,Model,Release Year,MSRP,Weight,Length,Max Diameter,Max Aperture,EFL,Zoom,Stabilized,Cinema,Format,Variety,Designed In,Made In,Index
 Canon,EF 14mm f/2.8L II USM,2007,2099,645,93.98,78.74,2.8,14,0,0,0,Full-Frame,Ultra Wide Angle,Japan,Japan,1
 Canon,CN-E 14mm T3.1 L F,2013,5220,1200,93.98,118.364,3.1,14,0,0,1,Full-Frame,Ultra Wide Angle,Japan,Japan,2
 Canon,TS-E 17mm f/4L Tilt-Shift,2009,2149,820,106.68,88.9,4,17,0,0,0,Full-Frame,Tilt Shift,Japan,Japan,3
@@ -165,17 +165,17 @@ Olympus,M.Zuiko Digital ED 30mm f/3.5 Macro,2016,299,128,60,57,3.5,30,0,0,0,Micr
 Olympus,M.Zuiko Digital ED 25mm f/1.2 PRO,2016,1199,410,87,70,1.2,25,0,0,0,Micro Four Thirds,Normal,Japan,,164
 Olympus,M.Zuiko Digital ED 12-100mm f/4 IS PRO,2016,1299,561,116.5,77.5,4,12-100,1,1,0,Micro Four Thirds,Normal,Japan,,165
 Samyang,14mm f/2.8 IF ED UMC,2009,299,552,96.012,87.122,2.8,14,0,0,0,Full-Frame,Ultra Wide Angle,Korea,Korea,166
-Samyang,Xeen 14mm T/3.1,2016,2145,1170,88.3,117.6,2.8,14,0,0,1,Full-Frame,Ultra Wide Angle,Korea,Korea,167
+Samyang,Xeen 14mm T3.1,2016,2145,1170,88.3,117.6,2.8,14,0,0,1,Full-Frame,Ultra Wide Angle,Korea,Korea,167
 Samyang,24mm f/1.4 ED AS UMC,2011,549,634.2,97.536,83.058,1.4,24,0,0,0,Full-Frame,Wide Angle,Korea,Korea,168
-Samyang,Xeen 24mm T/1.5,2015,2145,1180,121.7,117.6,1.4,24,0,0,1,Full-Frame,Wide Angle,Korea,Korea,169
+Samyang,Xeen 24mm T1.5,2015,2145,1180,121.7,117.6,1.4,24,0,0,1,Full-Frame,Wide Angle,Korea,Korea,169
 Samyang,35mm f/1.4 AS UMC,2010,407,710,111.506,83.058,1.4,35,0,0,0,Full-Frame,Wide Angle,Korea,Korea,170
-Samyang,Xeen 35mm T/1.5,2016,2145,1375,121.7,117.6,1.4,35,0,0,1,Full-Frame,Wide Angle,Korea,Korea,171
+Samyang,Xeen 35mm T1.5,2016,2145,1375,121.7,117.6,1.4,35,0,0,1,Full-Frame,Wide Angle,Korea,Korea,171
 Samyang,50mm f/1.4 AS IF UMC,2014,399,536,73.66,81.28,1.4,50,0,0,0,Full-Frame,Normal,Korea,Korea,172
-Samyang,Xeen 50mm T/1.5,2015,2145,1160,121.7,117.6,1.4,50,0,0,1,Full-Frame,Normal,Korea,Korea,173
+Samyang,Xeen 50mm T1.5,2015,2145,1160,121.7,117.6,1.4,50,0,0,1,Full-Frame,Normal,Korea,Korea,173
 Samyang,85mm f/1.4 AS IF UMC,2009,267,540,74.676,77.978,1.4,85,0,0,0,Full-Frame,Short Telephoto,Korea,Korea,174
-Samyang,Xeen 85mm T/1.5,2015,2145,1245,121.7,117.6,1.4,85,0,0,1,Full-Frame,Short Telephoto,Korea,Korea,175
+Samyang,Xeen 85mm T1.5,2015,2145,1245,121.7,117.6,1.4,85,0,0,1,Full-Frame,Short Telephoto,Korea,Korea,175
 Samyang,AF 50mm f/1.4 FE,2016,700,585,98,67,1.4,50,0,0,0,Full-Frame,Normal,Korea,Korea,176
-Samyang,Xeen 135mm T/2.2,2016,2195,2500,122,118,2.2,135,0,1,1,Full-Frame,Medium Telephoto,Korea,Korea,177
+Samyang,Xeen 135mm T2.2,2016,2195,2500,122,118,2.2,135,0,1,1,Full-Frame,Medium Telephoto,Korea,Korea,177
 Schneider,PC-TS Super-Angulon 28mm f/4.5 HM Aspheric,2014,8288,1610,144.78,124.968,4.5,28,0,0,0,Full-Frame,Tilt Shift,Germany,Germany,178
 Schneider,PC-TS Super-Angulon 50mm f/2.8 HM,2010,3365,1400,107.95,129.032,2.8,50,0,0,0,Full-Frame,Tilt Shift,Germany,Germany,179
 Schneider,PC-TS Makro-Symmar 90mm f/4.5 HM,2010,3180,1110,138.684,107.95,4.5,90,0,0,0,Full-Frame,Tilt Shift,Germany,Germany,180
@@ -232,7 +232,7 @@ Tokina,AT-X 70-200mm f/4 Pro FX VCM-S,2014,899,980,167.386,82.042,4,70-200,1,1,0
 Tokina,FiRIN 20mm f/2 FE MF,2016,799,490,81.5,69,2,20,0,0,0,Full-Frame,Ultra Wide Angle,Japan,,231
 Venus,Laowa 15mm f/4 Wide Angle 1:1 Macro,2015,499,410,64.7,83.8,4,15,0,0,0,Full-Frame,Ultra Wide Angle,China,China,232
 Venus,Laowa 60mm f/2.8 2X Ultra-Macro,2015,399,503,95,70,2.8,60,0,0,0,Full-Frame,Macro,China,China,233
-Venus,Laowa STF 105mm f/2 (T/3.2),2016,699,745,98.9,76,2,105,0,0,0,Full-Frame,Short Telephoto,China,China,234
+Venus,Laowa STF 105mm f/2 (T3.2),2016,699,745,98.9,76,2,105,0,0,0,Full-Frame,Short Telephoto,China,China,234
 Venus,Laowa 12mm f/2.8 Zero-D,2016,949,609,82.8,74.8,2.8,12,0,0,0,Full-Frame,Ultra Wide Angle,China,China,235
 Voigtlander,10.5mm f/0.95 Aspherical,2014,1099,586,82.296,76.962,0.95,10.5,0,0,0,Micro Four Thirds,Ultra Wide Angle,,,236
 Voigtlander,Ultra-Wide Heliar 12mm f/5.6 II,2010,699,230,42.5,74.6,5.6,12,0,0,0,Full-Frame,Ultra Wide Angle,,,237
@@ -319,9 +319,9 @@ Sigma,135mm f/1.8 DG HSM Art,2017,1399,1130,114.9,91.4,1.8,135,0,0,0,Full-Frame,
 Sigma,24-70mm DG OS HSM Art,2017,1299,,107.6,88,2.8,24-70,1,1,0,Full-Frame,Normal,Japan,,318
 Sigma,100-400mm f/5-6.3 DG OS HSM Contemporary,2017,799,1160,182.3,86.4,6.3,100-400,1,1,0,Full-Frame,Long Telephoto,Japan,,319
 Canon,EF 70-200mm f/2.8L,1995,1349,1310,193.6,84.6,2.8,70-135-200,1,0,0,Full-Frame,Telephoto,Japan,Japan,320
-Schneider,Xenon FF 50mm T/2.1,,3360,1200,135.6,100,2,50,0,0,1,Full-Frame,Normal,Germany,Germany,321
-Schneider,Xenon FF 35mm T/2.1,,3360,1160,135.6,100,2,35,0,0,1,Full-Frame,Normal,Germany,Germany,322
-Schneider,Xenon FF 75mm T/2.1,,3360,1180,135.6,100,2,75,0,0,1,Full-Frame,Short Telephoto,Germany,Germany,323
+Schneider,Xenon FF 50mm T2.1,,3360,1200,135.6,100,2,50,0,0,1,Full-Frame,Normal,Germany,Germany,321
+Schneider,Xenon FF 35mm T2.1,,3360,1160,135.6,100,2,35,0,0,1,Full-Frame,Normal,Germany,Germany,322
+Schneider,Xenon FF 75mm T2.1,,3360,1180,135.6,100,2,75,0,0,1,Full-Frame,Short Telephoto,Germany,Germany,323
 Sigma,18-35mm T2 Cine,,3999,1450,129.5,95,2,18-27-35,1,0,1,Super 35,Normal,Japan,,324
 Tokina,AT-X 50-135mm T3,,4499,1530,159,114,2.8,50-90-135,1,0,1,Super 35,Short Telephoto,Japan,Japan,325
 Canon,CN-E 70-200mm T4.4,2017,,1250,182.1,,4,70-135-200,1,0,1,Full-Frame,Telephoto,Japan,Japan,326
