@@ -1,4 +1,4 @@
-﻿UUID,Manufacture,Model,Release Year,MSRP,Weight,Length,Max Diameter,Max Aperture,EFL,Zoom,Stabilized,Cinema,Format,Variety,Designed In,Made In
+UUID,Manufacture,Model,Release Year,MSRP,Weight,Length,Max Diameter,Max Aperture,EFL,Zoom,Stabilized,Cinema,Format,Variety,Designed In,Made In
 1,Canon,EF 14mm f/2.8L II USM,2007,2099,645,93.98,78.74,2.8,14,0,0,0,Full-Frame,Ultra Wide Angle,Japan,Japan
 2,Canon,CN-E 14mm T3.1 L F,2013,5220,1200,93.98,118.364,3.1,14,0,0,1,Full-Frame,Ultra Wide Angle,Japan,Japan
 3,Canon,TS-E 17mm f/4L Tilt-Shift,2009,2149,820,106.68,88.9,4,17,0,0,0,Full-Frame,Tilt Shift,Japan,Japan
@@ -433,3 +433,12 @@
 432,Zeiss,Milvus 25mm f/1.4 ZE,2017,2399,1220,122.5,95.2,1.4,25,0,0,0,Full-Frame,Wide Angle,Germany,Japan
 433,Sony,FE 24-105 f/4G OSS,2017,1298,633,113,83,4,24-105,1,1,0,Full-Frame,Normal,Japan,
 434,Panasonic,Leica DG Elmarit 200mm f/2.8 POWER O.I.S.,2017,3000,1245,174,87.5,2.8,200,0,1,0,Micro Four Thirds,Long Telephoto,Japan,
+435,Olympus,M.Zuiko Digital 25mm f/1.8,2014,249,136,40.6,56,1.8,25,0,0,0,Micro Four Thirds,,,
+436,Olympus,M.Zuiko Digital ED 17mm f/1.2 PRO,2018,1199,390,87,68.2,1.2,17,0,0,0,Micro Four Thirds,,,
+437,Olympus,M.Zuiko Digital ED 75mm f/1.8,2012,749,305,69.1,64,1.8,75,0,0,0,Micro Four Thirds,,,
+438,Olympus,M.Zuiko Digital ED 45mm f/1.2 PRO,2017,1199,410,84.9,70,1.2,45,0,0,0,Micro Four Thirds,,,
+439,Olympus,M.Zuiko Digital 45mm f/1.8,2011,249,116,46,56,1.8,45,0,0,0,Micro Four Thirds,,,
+440,Olympus,M.Zuiko Digital 17mm f/1.8,2013,349,120,35.5,57.5,1.8,17,0,0,0,Micro Four Thirds,,,
+441,Panasonic,Leica DG Summilux 25mm f/1.4 ASPH,2011,598,200,54.5,63,1.4,25,0,0,0,Micro Four Thirds,,,
+442,Panasonic,Leica DG Summilux 12mm f/1.4 ASPH,2016,1298,335,70,70,1.4,12,0,0,0,Micro Four Thirds,,,
+443,Panasonic,Leica DG Nocticron 42.5mm f/1.2 ASPH POWER OIS,2014,1598,425,76.8,74,1.2,42.5,0,1,0,Micro Four Thirds,,,
