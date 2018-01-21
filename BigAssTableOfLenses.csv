@@ -431,15 +431,18 @@
 430,Voigtlander,Macro Apo-Lanthar 65mm f/2 Aspherical,2017,999,625,91.3,78,2,65,0,0,0,Full-Frame,Macro,Japan,Japan
 431,Voigtlander,Nokton 40mm f/1.2 Aspherical,2017,1059,420,59.3,70.1,1.2,40,0,0,0,Full-Frame,Normal,Japan,Japan
 432,Zeiss,Milvus 25mm f/1.4 ZE,2017,2399,1220,122.5,95.2,1.4,25,0,0,0,Full-Frame,Wide Angle,Germany,Japan
-433,Sony,FE 24-105 f/4G OSS,2017,1298,633,113,83,4,24-105,1,1,0,Full-Frame,Normal,Japan,
+433,Sony,FE 24-105mm f/4G OSS,2017,1298,633,113,83,4,24-105,1,1,0,Full-Frame,Normal,Japan,
 434,Panasonic,Leica DG Elmarit 200mm f/2.8 POWER O.I.S.,2017,3000,1245,174,87.5,2.8,200,0,1,0,Micro Four Thirds,Long Telephoto,Japan,
-435,Olympus,M.Zuiko Digital 25mm f/1.8,2014,249,136,40.6,56,1.8,25,0,0,0,Micro Four Thirds,,,
-436,Olympus,M.Zuiko Digital ED 17mm f/1.2 PRO,2018,1199,390,87,68.2,1.2,17,0,0,0,Micro Four Thirds,,,
-437,Olympus,M.Zuiko Digital ED 75mm f/1.8,2012,749,305,69.1,64,1.8,75,0,0,0,Micro Four Thirds,,,
-438,Olympus,M.Zuiko Digital ED 45mm f/1.2 PRO,2017,1199,410,84.9,70,1.2,45,0,0,0,Micro Four Thirds,,,
-439,Olympus,M.Zuiko Digital 45mm f/1.8,2011,249,116,46,56,1.8,45,0,0,0,Micro Four Thirds,,,
-440,Olympus,M.Zuiko Digital 17mm f/1.8,2013,349,120,35.5,57.5,1.8,17,0,0,0,Micro Four Thirds,,,
-441,Panasonic,Leica DG Summilux 25mm f/1.4 ASPH,2011,598,200,54.5,63,1.4,25,0,0,0,Micro Four Thirds,,,
-442,Panasonic,Leica DG Summilux 12mm f/1.4 ASPH,2016,1298,335,70,70,1.4,12,0,0,0,Micro Four Thirds,,,
-443,Panasonic,Leica DG Nocticron 42.5mm f/1.2 ASPH POWER OIS,2014,1598,425,76.8,74,1.2,42.5,0,1,0,Micro Four Thirds,,,
+435,Olympus,M.Zuiko Digital 25mm f/1.8,2014,249,136,40.6,56,1.8,25,0,0,0,Micro Four Thirds,Normal,Japan,Japan
+436,Olympus,M.Zuiko Digital ED 17mm f/1.2 PRO,2018,1199,390,87,68.2,1.2,17,0,0,0,Micro Four Thirds,Normal,Japan,Japan
+437,Olympus,M.Zuiko Digital ED 75mm f/1.8,2012,749,305,69.1,64,1.8,75,0,0,0,Micro Four Thirds,Medium Telephoto,Japan,
+438,Olympus,M.Zuiko Digital ED 45mm f/1.2 PRO,2017,1199,410,84.9,70,1.2,45,0,0,0,Micro Four Thirds,Short Telephoto,Japan,Japan
+439,Olympus,M.Zuiko Digital 45mm f/1.8,2011,249,116,46,56,1.8,45,0,0,0,Micro Four Thirds,Short Telephoto,Japan,
+440,Olympus,M.Zuiko Digital 17mm f/1.8,2013,349,120,35.5,57.5,1.8,17,0,0,0,Micro Four Thirds,Normal,Japan,
+441,Panasonic,Leica DG Summilux 25mm f/1.4 ASPH,2011,598,200,54.5,63,1.4,25,0,0,0,Micro Four Thirds,Normal,Japan,
+442,Panasonic,Leica DG Summilux 12mm f/1.4 ASPH,2016,1298,335,70,70,1.4,12,0,0,0,Micro Four Thirds,Wide Angle,Japan,
+443,Panasonic,Leica DG Nocticron 42.5mm f/1.2 ASPH POWER OIS,2014,1598,425,76.8,74,1.2,42.5,0,1,0,Micro Four Thirds,Short Telephoto,Japan,
 444,Nikon,AF-S Nikkor 180-400mm f/4E TC1.4 FL ED VR,2018,12400,3500,363,128,4,180-400,1,1,0,Full-Frame,Supertelephoto,Japan,Japan
+445,Sigma,24-105mm f/4 DG OS HSM Art,2013,899,885,109.2,88.9,4,24-105,1,1,0,Full-Frame,Normal,Japan,Japan
+446,Leica,APO-Summicron-SL 75mm f/2 ASPH,2018,4750,720,102,73,2,75,0,0,0,Full-Frame,Short Telephoto,Germany,Germany
+447,Leica,APO-Summicron-SL 90mm f/2 ASPH,2018,5150,700,102,73,2,90,0,0,0,Full-Frame,Short Telephoto,Germany,Germany
