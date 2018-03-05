@@ -369,20 +369,20 @@
 368,Sigma,35mm T1.5 FF,2017,3499,1135,95,95,1.5,35,0,0,1,Full-Frame,Normal,Japan,Japan
 369,Sigma,50mm T1.5 FF,2017,3499,1295,102,95,1.5,50,0,0,1,Full-Frame,Normal,Japan,Japan
 370,Sigma,135mm T2 FF,2017,3499,1565,126,95,2,135,0,0,1,Full-Frame,Telephoto,Japan,Japan
-371,Tokina,AT-X 16-28mm T3,2017,3999,1500,166,123,2.8,16-28,1,0,1,Full-Frame,Ultra Wide Angle,Japan,
-372,Tokina,Vista 16-28mm II T3,2017,4999,1830,135,114,2.8,16-28,1,0,1,Full-Frame,Ultra Wide Angle,Japan,
-373,Tokina,35mm T1.5 Vista,2017,4999,2120,165,114,1.5,35,0,0,1,Full-Frame,Normal,Japan,
-374,Tokina,50mm T1.5 Vista,2017,4499,2190,139,114,1.5,50,0,0,1,Full-Frame,Normal,Japan,
-375,Tokina,AT-X  11-16mm T3,,1499,690,98,84,2.8,11-16,1,0,1,APS-C,Ultra Wide Angle,Japan,
-376,Tokina,AT-X 100mm T2.9 Macro,2017,2499,1310,133,88,2.8,100,0,0,1,Full-Frame,Macro,Japan,
-377,Tokina,85mm T1.5 Vista,2017,4999,2230,139,114,1.5,85,0,0,1,Full-Frame,Short Telephoto,Japan,
+371,Tokina,AT-X 16-28mm T3,2017,3999,1500,166,123,2.8,16-28,1,0,1,Full-Frame,Ultra Wide Angle,Japan,Japan
+372,Tokina,Vista 16-28mm II T3,2017,4999,1830,135,114,2.8,16-28,1,0,1,Full-Frame,Ultra Wide Angle,Japan,Japan
+373,Tokina,35mm T1.5 Vista,2017,4999,2120,165,114,1.5,35,0,0,1,Full-Frame,Normal,Japan,Japan
+374,Tokina,50mm T1.5 Vista,2017,4499,2190,139,114,1.5,50,0,0,1,Full-Frame,Normal,Japan,Japan
+375,Tokina,AT-X  11-16mm T3,,1499,690,98,84,2.8,11-16,1,0,1,APS-C,Ultra Wide Angle,Japan,Japan
+376,Tokina,AT-X 100mm T2.9 Macro,2017,2499,1310,133,88,2.8,100,0,0,1,Full-Frame,Macro,Japan,Japan
+377,Tokina,85mm T1.5 Vista,2017,4999,2230,139,114,1.5,85,0,0,1,Full-Frame,Short Telephoto,Japan,Japan
 378,Zeiss,21-100mm T2.9-3.9 LWZ.3,2017,9900,2000,226,114,2.9,21-100,1,0,1,Super 35,Superzoom,Germany,Germany
 379,Canon,EF-S 35mm f/2.8 Macro IS STM,2017,349,190,56,69,2.8,35,0,1,0,APS-C,Macro,Japan,Japan
 380,Samyang,14mm Ultra Wide-Angle f/2.8 IF ED UMC,2016,329,552,96.1,87,2.8,14,0,0,0,Full-Frame,Ultra Wide Angle,Korea,Korea
 381,Samyang,8mm f/3.5 HD Fisheye,2009,279,428,77.3,75,3.5,8,0,0,0,APS-C,Fisheye,Korea,Korea
 382,Samyang,135mm f/2 ED UMC,2015,499,815,120,82,2,135,0,0,0,Full-Frame,Telephoto,Korea,Korea
 383,Samyang,85mm f/1.4 Aspherical,2009,289,520,72.2,78,1.4,85,0,0,0,Full-Frame,Short Telephoto,Korea,Korea
-384,Tamron,SP 70-200mm f/2.8 Di VC USD G2,2017,1299,1500,193.04,87.88,2.8,70-200,1,1,0,Full-Frame,Telephoto,Japan,
+384,Tamron,SP 70-200mm f/2.8 Di VC USD G2,2017,1299,1500,193.04,87.88,2.8,70-200,1,1,0,Full-Frame,Telephoto,Japan,Korea
 385,Zeiss,Batis 135mm f/2.8,2017,1999,614,120,81,2.8,135,0,1,0,Full-Frame,Medium Telephoto,Germany,Japan
 386,Sony,FE 12-24mm f/4 G,2017,1698,565,116.84,88.9,4,12-24,1,0,0,Full-Frame,Ultra Wide Angle,Japan,
 387,Sony,FE 16-35mm f/2.8 GM,2017,2198,680,121.6,88.5,2.8,16-35,1,0,0,Full-Frame,Ultra Wide Angle,Japan,
@@ -447,8 +447,27 @@
 446,Leica,APO-Summicron-SL 75mm f/2 ASPH,2018,4750,720,102,73,2,75,0,0,0,Full-Frame,Short Telephoto,Germany,Germany
 447,Leica,APO-Summicron-SL 90mm f/2 ASPH,2018,5150,700,102,73,2,90,0,0,0,Full-Frame,Short Telephoto,Germany,Germany
 448,Leica,Noctilux-M 75mm f/1.25 ASPH,2017,12795,1055,91,74,1.25,75,0,0,0,Full-Frame,Short Telephoto,Germany,Germany
-449,Sigma,14-24mm f/2.8 DG HSM Art,2018,,1150,135.1,96.4,2.8,14-24,1,0,0,Full-Frame,Ultra Wide Angle,Japan,Japan
+449,Sigma,14-24mm f/2.8 DG HSM Art,2018,1299,1150,135.1,96.4,2.8,14-24,1,0,0,Full-Frame,Ultra Wide Angle,Japan,Japan
 450,Zeiss,Loxia 25mm f/2.4,2018,1299,393,74.5,62,2.4,25,0,0,0,Full-Frame,Wide Angle,Germany,Japan
 451,Samyang,XP 50mm f/1.2,2018,999,1300,117.4,93,1.2,50,0,0,0,Full-Frame,Normal,Korea,Korea
 452,Tamron,70-210mm f/4 Di VC USD,2018,799,859,175.3,76,4,70-210,1,1,0,Full-Frame,Telephoto,Japan,Japan
 453,Tokina,FiRIN 20mm f/2 FE AF,2018,,464,81.5,73.4,2,20,0,0,0,Full-Frame,Ultra Wide Angle,Japan,Japan
+454,Mitakon Zhongyi,Speedmaster 50mm f/0.95,2014,799,720,87,68.5,0.95,50,0,0,0,Full-Frame,Normal,China,China
+455,Mitakon Zhongyi,Speedmaster 85mm f/1.2,2015,699,921,96,83,1.2,85,0,0,0,Full-Frame,Short Telephoto,China,China
+456,Olympus,M.Zuiko Digital ED 300mm f/4 IS PRO,2016,2499,1475,227,92.5,4,300,0,1,0,Micro Four Thirds,Supertelephoto,Japan,
+457,Olympus,M.Zuiko Digital ED 12-40mm f/2.8 PRO,2013,799,382,84,69.9,2.8,12-40,1,0,0,Micro Four Thirds,Normal,Japan,
+458,Olympus,M.Zuiko Digital ED 7-14mm f/2.8 PRO,2015,1099,534,105.8,78.9,2.8,7-14,1,0,0,Micro Four Thirds,Ultra Wide Angle,Japan,
+459,Panasonic,Lumix G Vario 7-14mm f/4 ASPH.,2009,797,301,83.1,75,4,7-14,1,0,0,Micro Four Thirds,Ultra Wide Angle,Japan,
+460,Panasonic,Leica DG Vario-Elmarit 8-18mm f/2.8-4 ASPH.,2017,1097,315,88,73.4,2.8-4,8-18,1,0,0,Micro Four Thirds,Wide Angle,Japan,
+461,Panasonic,Lumix G X Vario 12-35mm f/2.8 ASPH. POWER O.I.S.,2012,,305,73.8,67.6,2.8,12-35,1,1,0,Micro Four Thirds,Normal,Japan,
+462,Panasonic,Lumix G X Vario 12-35mm f/2.8 II ASPH. POWER O.I.S.,2017,898,305,73.8,67.6,2.8,12-35,1,1,0,Micro Four Thirds,Normal,Japan,
+463,Panasonic,Lumix G X Vario 35-100mm f/2.8 II Power O.I.S.,2017,998,357,99.9,67.4,2.8,35-100,1,1,0,Micro Four Thirds,Telephoto,Japan,
+464,Panasonic,Leica DG Vario-Elmarit 50-200mm f/2.8-4 ASPH POWER O.I.S.,2018,1698,655,132,76,2.8-4,50-200,1,1,0,Micro Four Thirds,Supertelephoto,Japan,
+465,Voigtlander,Nokton 58mm f/1.4 SL II S,2007,599,320,45.5,67.6,1.4,58,0,0,0,Full-Frame,Normal,Japan,Japan
+466,Voigtlander,Nokton 50mm f/1.2 Aspherical,2018,,,,,1.2,50,0,0,0,Full-Frame,Normal,Japan,Japan
+467,Voigtlander,Macro-Apo-Lanthar 110mm f/2.5,2018,,,99.7,78.4,2.5,110,0,0,0,Full-Frame,Telephoto,Japan,Japan
+468,Voigtlander,Color-Skopar 21mm f/3.5 Aspherical,2018,,,39.9,62.8,3.5,21,0,0,0,Full-Frame,Ultra Wide Angle,Japan,Japan
+469,Tokina,Opera 50mm f/1.4 FF,2018,,,,,1.4,50,0,0,0,Full-Frame,Normal,Japan,Japan
+470,Sigma,70mm f/2.8 DG Macro Art,2018,,515,105.8,70.8,2.8,70,0,0,0,Full-Frame,Macro,Japan,Japan
+471,Venus,Laowa 9mm f/2.8 Zero-D,2018,,215,,,2.8,9,0,0,0,APS-C,Ultra Wide Angle,China,China
+472,Venus,Laowa 25mm f/2.8 Macro,2018,,400,,,2.8,25,0,0,0,Full-Frame,Macro,China,China
