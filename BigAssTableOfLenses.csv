@@ -451,7 +451,7 @@
 450,Zeiss,Loxia 25mm f/2.4,2018,1299,393,74.5,62,2.4,25,0,0,0,Full-Frame,Wide Angle,Germany,Japan
 451,Samyang,XP 50mm f/1.2,2018,999,1300,117.4,93,1.2,50,0,0,0,Full-Frame,Normal,Korea,Korea
 452,Tamron,70-210mm f/4 Di VC USD,2018,799,859,175.3,76,4,70-210,1,1,0,Full-Frame,Telephoto,Japan,Japan
-453,Tokina,FiRIN 20mm f/2 FE AF,2018,,464,81.5,73.4,2,20,0,0,0,Full-Frame,Ultra Wide Angle,Japan,Japan
+453,Tokina,FiRIN 20mm f/2 FE AF,2018,949,464,81.5,73.4,2,20,0,0,0,Full-Frame,Ultra Wide Angle,Japan,Japan
 454,Mitakon Zhongyi,Speedmaster 50mm f/0.95,2014,799,720,87,68.5,0.95,50,0,0,0,Full-Frame,Normal,China,China
 455,Mitakon Zhongyi,Speedmaster 85mm f/1.2,2015,699,921,96,83,1.2,85,0,0,0,Full-Frame,Short Telephoto,China,China
 456,Olympus,M.Zuiko Digital ED 300mm f/4 IS PRO,2016,2499,1475,227,92.5,4,300,0,1,0,Micro Four Thirds,Supertelephoto,Japan,
@@ -488,3 +488,8 @@
 487,SLR Magic,MicroPrime CINE 50mm T1.2,2018,800,700,87,,1.2,50,0,0,1,Full-Frame,Normal,China,China
 489,SLR Magic,MicroPrime CINE 70mm T1.5,2018,800,700,87,,1.5,75,0,0,1,Full-Frame,Normal,China,China
 490,Fujifilm,GF 250mm f/4 R LM OIS WR,2018,3299.95,1425,204,108,4,250,0,1,0,Crop Medium Format Digital,Telephoto,Japan,Japan
+491,Meyer-Optik Gorlitz,APO Plasmat 105mm f/2.7,2019,,,,,2.7,105,0,0,0,Full-Frame,Telephoto,,
+492,Venus,Laowa 10-18mm F4.5-5.6 FE Zoom,2018,,496,90.9,70,4.5-5.6,10-18,1,0,0,Full-Frame,Ultra Wide Angle,China,China
+493,Venus,Laowa 4mm f/2.8 Fisheye MFT,2018,,135,25.5,45.2,2.8,4,0,0,0,Micro Four Thirds,Fisheye,China,China
+494,Venus,Laowa 100mm f/2.8 2:1 Ultra-Macro APO,2018,,638,125,72,2.8,100,0,0,0,Full-Frame,Macro,China,China
+495,Venus,Laowa 17mm f/4 Zero-D GFX,2018,,829,124.5,77.1,4,17,0,0,0,Crop Medium Format Digital,Ultra Wide Angle,China,China
