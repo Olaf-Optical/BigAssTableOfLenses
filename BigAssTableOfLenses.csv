@@ -468,7 +468,7 @@
 467,Voigtlander,Macro-Apo-Lanthar 110mm f/2.5,2018,,,99.7,78.4,2.5,110,0,0,0,Full-Frame,Telephoto,Japan,Japan
 468,Voigtlander,Color-Skopar 21mm f/3.5 Aspherical,2018,,,39.9,62.8,3.5,21,0,0,0,Full-Frame,Ultra Wide Angle,Japan,Japan
 469,Tokina,Opera 50mm f/1.4 FF,2018,,,,,1.4,50,0,0,0,Full-Frame,Normal,Japan,Japan
-470,Sigma,70mm f/2.8 DG Macro Art,2018,,515,105.8,70.8,2.8,70,0,0,0,Full-Frame,Macro,Japan,Japan
+470,Sigma,70mm f/2.8 DG Macro Art,2018,570,515,105.8,70.8,2.8,70,0,0,0,Full-Frame,Macro,Japan,Japan
 471,Venus,Laowa 9mm f/2.8 Zero-D,2018,,215,,,2.8,9,0,0,0,APS-C,Ultra Wide Angle,China,China
 472,Venus,Laowa 25mm f/2.8 Macro,2018,,400,,,2.8,25,0,0,0,Full-Frame,Macro,China,China
 473,Canon,CN-E 20mm T1.5 L F,2018,4220,1200,118.4,118.4,1.5,20,0,0,1,Full-Frame,Ultra Wide Angle,Japan,Japan
@@ -495,3 +495,8 @@
 495,Venus,Laowa 17mm f/4 Zero-D GFX,2018,,829,124.5,77.1,4,17,0,0,0,Crop Medium Format Digital,Ultra Wide Angle,China,China
 496,Tamron,28-75mm f/2.8 Di III RXD,2018,800,550,117.8,73,2.8,28-75,1,0,0,Full-Frame,Normal,Japan,
 497,Hasselblad,XCD 21mm f/4,2018,3650,600,106,83,4,21,0,0,0,Crop Medium Format Digital,Ultra Wide Angle,,Japan
+498,Zeiss,Supreme Prime 25mm T1.5,2018,,1420,119,95,1.5,25,0,0,1,Full-Frame,Wide Angle,Germany,Germany
+499,Zeiss,Supreme Prime 29mm T1.5,2018,,1610,121,95,1.5,29,0,0,1,Full-Frame,Wide Angle,Germany,Germany
+500,Zeiss,Supreme Prime 35mm T1.5,2018,,1400,119,95,1.5,35,0,0,1,Full-Frame,Normal,Germany,Germany
+501,Zeiss,Supreme Prime 50mm T1.5,2018,,1220,119,95,1.5,50,0,0,1,Full-Frame,Normal,Germany,Germany
+502,Zeiss,Supreme Prime 85mm T1.5,2018,,1420,119,95,1.5,85,0,0,1,Full-Frame,Short Telephoto,Germany,Germany
