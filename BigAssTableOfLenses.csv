@@ -221,7 +221,7 @@
 220,Tamron,28-300mm f/3.5-6.3 Di VC PZD,2014,849,540,96.012,74.422,6.3,28-300,1,1,0,Full-Frame,Superzoom,Japan,
 221,Tamron,SP 70-200mm f/2.8 Di VC USD,2012,1499,1470,188.214,85.852,2.8,70-200,1,1,0,Full-Frame,Telephoto,Japan,
 222,Tamron,SP 70-300mm f/4-5.6 Di VC USD,2010,449,765,149.86,81.534,5.6,70-300,1,1,0,Full-Frame,Telephoto,Japan,
-223,Tamron,AF 28-75mm f2.8 XR DI LD,1992,499,508,91.9,73,2.8,28-75,1,0,0,Full-Frame,Normal,Japan,
+223,Tamron,AF 28-75mm f/2.8 XR DI LD,1992,499,508,91.9,73,2.8,28-75,1,0,0,Full-Frame,Normal,Japan,
 224,Tamron,SP 150-600mm f/5-6.3 Di VC USD G2,2016,1399,2010,260.2,108.4,5,150-600,1,1,0,Full-Frame,Long Telephoto,Japan,
 225,Tamron,SP 85mm f/1.8 Di VC USD,2016,749,700,91.3,84.8,1.8,85,0,1,0,Full-Frame,Short Telephoto,Japan,
 226,Tokina,100mm f/2.8 AT-X M100 AF Pro D,2006,379,540,94.996,73.66,2.8,100,0,0,0,Full-Frame,Macro,Japan,
@@ -476,7 +476,7 @@
 475,Meyer-Optik Gorlitz,Trioplan 50mm f/2.9,2016,1499,200,,,2.9,50,0,0,0,Full-Frame,Normal,,
 476,Meyer-Optik Gorlitz,P75 75mm f/1.9,2017,1999,300,,,1.9,75,0,0,0,Crop Medium Format Digital,Normal,,
 477,Meyer-Optik Gorlitz,P58 58mm f/1.9,2018,1599,200,,,1.9,58,0,0,0,Full-Frame,Normal,,
-478,Meyer-Optik Gorlitz,Nocturnus III 50mm F0.95,2018,3000,790,,,0.95,50,0,0,0,Full-Frame,Normal,,
+478,Meyer-Optik Gorlitz,Nocturnus III 50mm f/0.95,2018,3000,790,,,0.95,50,0,0,0,Full-Frame,Normal,,
 479,NiSi,F3 25mm T2.1,2018,3000,1330,117,95,2.1,25,0,0,1,Full-Frame,Wide Angle,China,China
 480,NiSi,F3 35mm T2,2018,2500,1280,117,95,2,35,0,0,1,Full-Frame,Normal,China,China
 481,NiSi,F3 50mm T2,2018,2500,1230,117,95,2,50,0,0,1,Full-Frame,Normal,China,China
@@ -489,7 +489,7 @@
 489,SLR Magic,MicroPrime CINE 70mm T1.5,2018,800,700,87,,1.5,75,0,0,1,Full-Frame,Normal,China,China
 490,Fujifilm,GF 250mm f/4 R LM OIS WR,2018,3299.95,1425,204,108,4,250,0,1,0,Crop Medium Format Digital,Telephoto,Japan,Japan
 491,Meyer-Optik Gorlitz,APO Plasmat 105mm f/2.7,2019,,,,,2.7,105,0,0,0,Full-Frame,Telephoto,,
-492,Venus,Laowa 10-18mm F4.5-5.6 FE Zoom,2018,,496,90.9,70,4.5-5.6,10-18,1,0,0,Full-Frame,Ultra Wide Angle,China,China
+492,Venus,Laowa 10-18mm f/4.5-5.6 FE Zoom,2018,,496,90.9,70,4.5-5.6,10-18,1,0,0,Full-Frame,Ultra Wide Angle,China,China
 493,Venus,Laowa 4mm f/2.8 Fisheye MFT,2018,,135,25.5,45.2,2.8,4,0,0,0,Micro Four Thirds,Fisheye,China,China
 494,Venus,Laowa 100mm f/2.8 2:1 Ultra-Macro APO,2018,,638,125,72,2.8,100,0,0,0,Full-Frame,Macro,China,China
 495,Venus,Laowa 17mm f/4 Zero-D GFX,2018,,829,124.5,77.1,4,17,0,0,0,Crop Medium Format Digital,Ultra Wide Angle,China,China
@@ -500,4 +500,4 @@
 500,Zeiss,Supreme Prime 35mm T1.5,2018,,1400,119,95,1.5,35,0,0,1,Full-Frame,Normal,Germany,Germany
 501,Zeiss,Supreme Prime 50mm T1.5,2018,,1220,119,95,1.5,50,0,0,1,Full-Frame,Normal,Germany,Germany
 502,Zeiss,Supreme Prime 85mm T1.5,2018,,1420,119,95,1.5,85,0,0,1,Full-Frame,Short Telephoto,Germany,Germany
-503,Sigma,105mm F1.4 HSM Art,2018,1599,1645,131.5,115.9,1.4,105,0,0,0,Full-Frame,Short Telephoto,Japan,Japan
+503,Sigma,105mm f/1.4 HSM Art,2018,1599,1645,131.5,115.9,1.4,105,0,0,0,Full-Frame,Short Telephoto,Japan,Japan
