@@ -423,7 +423,7 @@
 422,Veydra,35mm T2.2 Mini Prime,2014,799,473,,80,2.2,35,0,0,1,Micro Four Thirds,Short Telephoto,USA,
 423,Veydra,50mm T2.2 Mini Prime,2014,799,461,,80,2.2,50,0,0,1,Micro Four Thirds,Medium Telephoto,USA,
 424,Veydra,85mm T2.2 Mini Prime,2015,999,770,,80,2.2,85,0,0,1,Micro Four Thirds,Telephoto,USA,
-425,Canon,85mm f/1.4L IS USM,2017,1599,950,105.4,88.6,1.4,85,0,1,0,Full-Frame,Short Telephoto,Japan,Japan
+425,Canon,EF 85mm f/1.4L IS USM,2017,1599,950,105.4,88.6,1.4,85,0,1,0,Full-Frame,Short Telephoto,Japan,Japan
 426,Canon,TS-E 50mm f/2.8L Macro,2017,2199,945,114.9,86.9,2.8,50,0,0,0,Full-Frame,Tilt Shift,Japan,Japan
 427,Canon,TS-E 90mm f/2.8L Macro,2017,2199,915,116.5,86.9,2.8,90,0,0,0,Full-Frame,Tilt Shift,Japan,Japan
 428,Canon,TS-E 135mm f/4L Macro,2017,2199,1100,139.1,88.5,4,135,0,0,0,Full-Frame,Tilt Shift,Japan,Japan
@@ -505,3 +505,4 @@
 505,Canon,EF 70-200mm f/4L IS II USM,2018,1299,780,176,80,4,70-200,1,1,0,Full-Frame,Telephoto,Japan,Japan
 506,Samyang,AF 35mm f/2.8 FE,2017,399,85.6,33,61.8,2.8,35,0,0,0,Full-Frame,Normal,Korea,Korea
 507,Samyang,AF 24mm f/2.8 FE,2018,399,120,37,61.8,2.8,24,0,0,0,Full-Frame,Wide Angle,Korea,Korea
+508,Samyang,AF 85mm f/1.4 EF,2018,799,485,72,,1.4,85,0,0,0,Full-Frame,Short Telephoto,Korea,Korea
